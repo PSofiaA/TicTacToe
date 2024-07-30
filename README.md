@@ -1,2 +1,1 @@
-# ProgectTut
-Frontend Web Development: In-Depth Project Tutorial (HTML, CSS, JavaScript, TypeScript, React) from freeCodeCamp.org
+Frontend Web Development: In-Depth Project Tutorial (HTML, CSS, JavaScript) from freeCodeCamp.org
